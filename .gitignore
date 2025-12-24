@@ -1,0 +1,14 @@
+
+# Dependencies
+node_modules/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Brain/Artifacts folders (if local)
+.gemini/
